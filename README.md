@@ -1,7 +1,7 @@
 # Tiny LED Card
  A tiny credit card sized LED light
  
- <img src="/Pictures/alu-led-pcb.jpg" width="200">
+ <img src="/Pictures/alu-led-pcb.jpg" width="400">
 
 # Hardware
  Currently using 3030 LED and TPS61165 driver.
