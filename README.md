@@ -47,7 +47,7 @@
  R1 and R2 are the sense resistor for the LED driver, use the following resistor: 
   for other current see the datasheet of TPS61165
  
- | Resistor (Ω)  | LED Current | Power | 
+ | Resistor (Ω)  | LED Current (each) | Power | 
 | ------------- | ------------- | ------------- |
 | 1  | 50mA  | 14.4W |
 | 0.5  | 100mA  | 28.8W |
