@@ -61,4 +61,4 @@
 ## Usage
  Plug a 12V DC power supply in, light will come out from the bright side.
  
- It is not advised to use the Micro USB for power as a large amperage will be needed at 5V. Also, having both plugged in will damage the Micro USB device.
+ It is not advised to use the Micro USB for power as a large amperage will be needed at 5V. Also, having both accidentally plugged in will damage the Micro USB device.
