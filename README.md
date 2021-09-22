@@ -33,7 +33,9 @@
  
  2x M3x12-16mm 
  
-## Assembly
+# Assembly
+ See the BOM for parts.
+
  For the Aluminium PCB, you need a hotplate or a beefy hotair gun.
  It is impossible to solder with a soldering iron 
  
