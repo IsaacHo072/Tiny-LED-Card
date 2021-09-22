@@ -37,6 +37,7 @@
  
 # Assembly
  See the BOM for parts.
+ Total cost should be under $25
 
  For the Aluminium PCB, you need a hotplate or a beefy hotair gun.
  It is impossible to solder with a soldering iron 
