@@ -5,6 +5,7 @@
 
 # Hardware
  Currently using 3030 LED and TPS61165 driver.
+ 
  Update 2022 Feb: It seems that you can't buy the TPS61165 anymore, all places are out of stock. 
 
 ## 3030 LED
