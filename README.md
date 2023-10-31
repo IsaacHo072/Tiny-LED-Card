@@ -7,6 +7,7 @@
  Currently using 3030 LED and TPS61165 driver.
  
  Update 2022 Feb: It seems that you can't buy the TPS61165 anymore, all places are out of stock. 
+ Update 2023: TPS61165 back in stock in most marketplace
 
 ## 3030 LED
  Luminus Device MP3030-110H
